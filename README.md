@@ -29,6 +29,7 @@
   <hr/>
   <h3> Outras / Other </h3>
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Git" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">   
 </div>          
 
 ##
