@@ -13,6 +13,7 @@
   <img align="center" alt="JS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Python" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
@@ -29,7 +30,8 @@
   <h3> Back-end </h3>
   <img align="center" alt="MySQL" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Express" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Sequelize" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Sequelize" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+  <img align="center" alt="MongoDB" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -39,6 +41,7 @@
   <img align="center" alt="Mocha" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Chai" height="55" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
   <img align="center" alt="Sinon" height="55"  src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67">
+  <img align="center" alt="Pytest" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
 </div>
 
 <div style="display: inline_block"><br>
