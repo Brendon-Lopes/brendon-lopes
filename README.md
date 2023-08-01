@@ -1,6 +1,8 @@
-### Hi there! Welcome to my profile!
+## About Me (English)
+I'm a Fullstack Web Developer studying Computer Science with a passion for creating robust and scalable web applications. I have a strong knowledge of Backend development using C# and Node.js, and I'm experienced with Frontend design using React. I thrive in dynamic and fast-paced environments and love the challenge of learning new technologies. Check my pinned projects to see what I've created.
 
-I'm a Fullstack Web Developer studying Computer Science with a passion for creating robust and scalable web applications. I have a strong knowledge of Backend development using C# and Node.js, paired with advanced Frontend design skills in React. I thrive in dynamic and fast-paced environments and love the challenge of learning new technologies. Check my pinned projects to see what I've created.
+## Sobre Mim (Português)
+Sou um Desenvolvedor Web Fullstack estudando Ciência da Computação com uma paixão por criar aplicações web robustas e escaláveis. Tenho um forte conhecimento em desenvolvimento Backend usando C# e Node.js, e tenho experiência com design Frontend usando React. Prospero em ambientes dinâmicos e acelerados e amo o desafio de aprender novas tecnologias. Confira meus projetos fixados para ver o que eu criei.
 
 <div>
   <a href="https://github.com/brendon-lopes">
