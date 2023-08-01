@@ -1,5 +1,6 @@
-### Olá! Bem vindo(a) ao meu perfil!
 ### Hi there! Welcome to my profile!
+
+I'm a Fullstack Web Developer studying Computer Science with a passion for creating robust and scalable web applications. I have a strong knowledge of Backend development using C# and Node.js, paired with advanced Frontend design skills in React. I thrive in dynamic and fast-paced environments and love the challenge of learning new technologies. Check my pinned projects to see what I've created.
 
 <div>
   <a href="https://github.com/brendon-lopes">
